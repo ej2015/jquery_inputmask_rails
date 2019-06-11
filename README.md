@@ -1,11 +1,10 @@
-# Jquery::Inputmask::Rails
-
+# JqueryInputmaskRails
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-inputmask-rails'
+    gem 'jquery_inputmask_rails'
 
 And then execute:
 
@@ -14,9 +13,6 @@ And then execute:
 Add the following to your `app/assets/javascripts/application.js`:
 
     //= require jquery.inputmask
-    //= require jquery.inputmask.extensions
-    //= require jquery.inputmask.numeric.extensions
-    //= require jquery.inputmask.date.extensions
     
 ## Plugin Documentation
 
