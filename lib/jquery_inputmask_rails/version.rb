@@ -1,3 +1,3 @@
 module JqueryInputmaskRails
- VERSION = "5.0.0-beta.184"
+ VERSION = "1.0.0"
 end
