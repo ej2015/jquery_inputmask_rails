@@ -12,13 +12,8 @@ And then execute:
 
 Add the following to your `app/assets/javascripts/application.js`:
 
-    //to use with JQuery
     //= require jquery.inputmask
 
-    //or to use vanila javascript
-    //= require inputmask
-
-    
 ## Plugin Documentation
 Current version: 5.0.0-beta.184
 
